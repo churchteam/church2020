@@ -1,0 +1,52 @@
+{
+    "status": 200,
+    "msg": "ok",
+    "data": {
+        "current": [{
+            "vid": "2d238d2ac2080819a03d361d2b7a7eb1_2",
+            "mP3Vid": "2d238d2ac26edd53bb54c7f51ecef78c_2",
+            "categoryTitle": "58马太8章18-22",
+            "dateTitle": "202005",
+            "name": "58马太8章18-22",
+            "pictureURL": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9dde013f63c.png",
+            "dailyCategory": "1",
+            "bibleCategory": "1",
+            "gospelCategory": null,
+            "sourceFilesCreateTime": null
+        }],
+        "menus": [{
+            "vid": "2d238d2ac2080819a03d361d2b7a7eb1_2",
+            "mP3Vid": "2d238d2ac26edd53bb54c7f51ecef78c_2",
+            "categoryTitle": "58马太8章18-22",
+            "dateTitle": "202005",
+            "name": "58马太8章18-22",
+            "pictureURL": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9dde013f63c.png",
+            "dailyCategory": "1",
+            "bibleCategory": "1",
+            "gospelCategory": null,
+            "sourceFilesCreateTime": null
+        }, {
+            "vid": "2d238d2ac26829a39668fb9d13811568_2",
+            "mP3Vid": "2d238d2ac27c05513c8174f9ab871582_2",
+            "categoryTitle": "希伯来书",
+            "dateTitle": "202007",
+            "name": "来1章4-14",
+            "pictureURL": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9dddce0eac9.png",
+            "dailyCategory": "1",
+            "bibleCategory": "1",
+            "gospelCategory": "",
+            "sourceFilesCreateTime": null
+        }, {
+            "vid": "2d238d2ac24f099c4f095b31a419bea5_2",
+            "mP3Vid": "2d238d2ac2ffe4a75dac4e24124b3345_2",
+            "categoryTitle": "撒下12章",
+            "dateTitle": "202005",
+            "name": "撒下13章",
+            "pictureURL": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9dde246ad96.png",
+            "dailyCategory": "1",
+            "bibleCategory": "1",
+            "gospelCategory": null,
+            "sourceFilesCreateTime": null
+        }]
+    }
+}
